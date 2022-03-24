@@ -1,4 +1,6 @@
-#!/Users/olawalealex-oni/Desktop/lemonade/backend/env/bin/python3
+#!/bin/sh
+'''exec' "/Users/musubi/Desktop/new lemonade-main 2/backend/env/bin/python3" "$0" "$@"
+' '''
 # -*- coding: utf-8 -*-
 import re
 import sys
